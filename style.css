@@ -1,0 +1,25 @@
+p{  margin: 16px 16px 16px 16px;
+    padding: 16px 16px 16px 16px;
+    display: flex;
+    flex:content;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    font-family: "Antic Didone", serif;
+    font-weight: 900;
+    font-style: normal;
+    height: 100%;
+    color: rgb(240, 243, 245);
+    text-align: center;
+
+}
+html{height: 100%;}
+body{
+    height: 100%;
+    background: #0AC6FF;
+    background: linear-gradient(0deg, #0AC6FF, #33658A);;
+    background-repeat:no-repeat;
+    margin: 0;
+    background-attachment: fixed;
+
+}
